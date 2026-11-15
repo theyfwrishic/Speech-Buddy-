@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (if you use npx serve or add tooling)
+node_modules/
+npm-debug.log*
+
+# Python / Odoo
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+filestore/
+
+# Env and secrets
+.env
+.env.*
+
+# Office temp files
+~$*
